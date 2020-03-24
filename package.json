@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-k8s",
+  "version": "1.0.0",
+  "description": "Node JS based K8S cluster",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazharhasan/nodejsk8s.git"
+  },
+  "author": "Syed Mazhar Hasan Qadri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazharhasan/nodejsk8s/issues"
+  },
+  "homepage": "https://github.com/mazharhasan/nodejsk8s#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
